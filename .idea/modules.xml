@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PrefabKit_MQTT.iml" filepath="$PROJECT_DIR$/.idea/modules/PrefabKit_MQTT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/89465093/PrefabKit_MQTT.SwiftKit.iml" filepath="$PROJECT_DIR$/.idea/modules/89465093/PrefabKit_MQTT.SwiftKit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1304022457/PrefabKit_MQTT.SwiftKit.basick.iml" filepath="$PROJECT_DIR$/.idea/modules/-1304022457/PrefabKit_MQTT.SwiftKit.basick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1304022457/PrefabKit_MQTT.SwiftKit.basick.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1304022457/PrefabKit_MQTT.SwiftKit.basick.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1304022457/PrefabKit_MQTT.SwiftKit.basick.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1304022457/PrefabKit_MQTT.SwiftKit.basick.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1304022457/PrefabKit_MQTT.SwiftKit.basick.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1304022457/PrefabKit_MQTT.SwiftKit.basick.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1872839794/PrefabKit_MQTT.SwiftKit.uicorek.iml" filepath="$PROJECT_DIR$/.idea/modules/-1872839794/PrefabKit_MQTT.SwiftKit.uicorek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1872839794/PrefabKit_MQTT.SwiftKit.uicorek.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1872839794/PrefabKit_MQTT.SwiftKit.uicorek.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1872839794/PrefabKit_MQTT.SwiftKit.uicorek.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1872839794/PrefabKit_MQTT.SwiftKit.uicorek.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1872839794/PrefabKit_MQTT.SwiftKit.uicorek.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1872839794/PrefabKit_MQTT.SwiftKit.uicorek.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/517787029/PrefabKit_MQTT.SwiftKit.underlayk.iml" filepath="$PROJECT_DIR$/.idea/modules/517787029/PrefabKit_MQTT.SwiftKit.underlayk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/517787029/PrefabKit_MQTT.SwiftKit.underlayk.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/517787029/PrefabKit_MQTT.SwiftKit.underlayk.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/517787029/PrefabKit_MQTT.SwiftKit.underlayk.main.iml" filepath="$PROJECT_DIR$/.idea/modules/517787029/PrefabKit_MQTT.SwiftKit.underlayk.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/517787029/PrefabKit_MQTT.SwiftKit.underlayk.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/517787029/PrefabKit_MQTT.SwiftKit.underlayk.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PrefabKit_MQTT.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PrefabKit_MQTT.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PrefabKit_MQTT.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PrefabKit_MQTT.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PrefabKit_MQTT.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PrefabKit_MQTT.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PrefabKit_MQTT.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PrefabKit_MQTT.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/prefabk_mqtt/PrefabKit_MQTT.prefabk_mqtt.iml" filepath="$PROJECT_DIR$/.idea/modules/prefabk_mqtt/PrefabKit_MQTT.prefabk_mqtt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/prefabk_mqtt/PrefabKit_MQTT.prefabk_mqtt.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/prefabk_mqtt/PrefabKit_MQTT.prefabk_mqtt.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/prefabk_mqtt/PrefabKit_MQTT.prefabk_mqtt.main.iml" filepath="$PROJECT_DIR$/.idea/modules/prefabk_mqtt/PrefabKit_MQTT.prefabk_mqtt.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/prefabk_mqtt/PrefabKit_MQTT.prefabk_mqtt.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/prefabk_mqtt/PrefabKit_MQTT.prefabk_mqtt.unitTest.iml" />
+    </modules>
+  </component>
+</project>
